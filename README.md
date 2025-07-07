@@ -36,15 +36,4 @@
 
 ---
 
-## 🚀 Em números
-
-- 🧠 Total de Contribuições: **276**
-- 🔁 Maior sequência de dias ativos: **11**
-- 🟡 Linguagens mais usadas:
-  - HTML: **63,14%**
-  - CSS: **21,33%**
-  - JavaScript: **15,53%**
-
----
-
 📌 *Atualmente não uso muito o GitHub, mas em breve estarei publicando meus projetos por aqui!*
